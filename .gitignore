@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.local
+.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal tooling (not for public repo)
+scripts/
+ui-skills/
+ui_extractions_json/
+
+# Claude settings
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*

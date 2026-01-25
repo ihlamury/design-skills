@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Linear",
+  "source": "https://linear.app",
+  "extracted": "2026-01-25",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 13,
+    "spacing": 0,
+    "borders": 2
+  }
+}
