@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Robinhood",
+  "source": "https://robinhood.com",
+  "extracted": "2026-01-25",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 11,
+    "spacing": 0,
+    "borders": 2
+  }
+}
