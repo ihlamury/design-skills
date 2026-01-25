@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "GitHub",
+  "source": "https://github.com",
+  "extracted": "2026-01-25",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 9,
+    "typography": 54,
+    "spacing": 0,
+    "borders": 7
+  }
+}
