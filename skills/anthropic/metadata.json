@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Anthropic",
+  "source": "https://www.anthropic.com",
+  "extracted": "2026-01-25",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 6,
+    "typography": 16,
+    "spacing": 0,
+    "borders": 2
+  }
+}
