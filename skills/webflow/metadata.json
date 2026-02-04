@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Webflow",
+  "source": "https://webflow.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 9,
+    "typography": 71,
+    "spacing": 0,
+    "borders": 4
+  }
+}

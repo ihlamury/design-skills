@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Cal",
+  "source": "https://cal.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 62,
+    "spacing": 0,
+    "borders": 10
+  }
+}

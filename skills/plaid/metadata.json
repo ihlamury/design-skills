@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Plaid",
+  "source": "https://plaid.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 20,
+    "spacing": 0,
+    "borders": 4
+  }
+}

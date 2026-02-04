@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Retool",
+  "source": "https://retool.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 9,
+    "typography": 40,
+    "spacing": 0,
+    "borders": 6
+  }
+}

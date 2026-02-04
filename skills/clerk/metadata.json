@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Clerk",
+  "source": "https://clerk.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 28,
+    "spacing": 0,
+    "borders": 3
+  }
+}

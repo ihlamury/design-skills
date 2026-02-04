@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Railway",
+  "source": "https://railway.app",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 68,
+    "spacing": 0,
+    "borders": 8
+  }
+}

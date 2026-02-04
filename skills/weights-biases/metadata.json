@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Weights Biases",
+  "source": "https://wandb.ai",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 1,
+    "typography": 0,
+    "spacing": 0,
+    "borders": 0
+  }
+}

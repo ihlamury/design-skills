@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Replit",
+  "source": "https://replit.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 9,
+    "typography": 63,
+    "spacing": 0,
+    "borders": 15
+  }
+}

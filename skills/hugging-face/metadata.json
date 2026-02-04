@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Hugging Face",
+  "source": "https://huggingface.co",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 105,
+    "spacing": 0,
+    "borders": 16
+  }
+}

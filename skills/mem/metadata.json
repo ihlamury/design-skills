@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Mem",
+  "source": "https://mem.ai",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 13,
+    "spacing": 0,
+    "borders": 6
+  }
+}

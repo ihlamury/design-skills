@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Planetscale",
+  "source": "https://planetscale.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 10,
+    "typography": 52,
+    "spacing": 0,
+    "borders": 0
+  }
+}

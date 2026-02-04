@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Ashby",
+  "source": "https://ashby.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 6,
+    "typography": 16,
+    "spacing": 0,
+    "borders": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Brex",
+  "source": "https://brex.com",
+  "extracted": "2026-02-02",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 10,
+    "typography": 15,
+    "spacing": 0,
+    "borders": 3
+  }
+}
