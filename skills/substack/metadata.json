@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Substack",
+  "source": "https://substack.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 42,
+    "spacing": 0,
+    "borders": 8
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Craft",
+  "source": "https://craft.do",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 11,
+    "typography": 49,
+    "spacing": 0,
+    "borders": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Mailchimp",
+  "source": "https://mailchimp.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 10,
+    "typography": 55,
+    "spacing": 0,
+    "borders": 11
+  }
+}

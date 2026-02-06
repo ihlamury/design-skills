@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Monzo",
+  "source": "https://monzo.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 16,
+    "spacing": 0,
+    "borders": 5
+  }
+}

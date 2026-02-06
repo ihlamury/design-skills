@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Shopify",
+  "source": "https://shopify.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 6,
+    "typography": 14,
+    "spacing": 0,
+    "borders": 3
+  }
+}

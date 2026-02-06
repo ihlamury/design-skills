@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Gumroad",
+  "source": "https://gumroad.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "dark-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 21,
+    "spacing": 0,
+    "borders": 5
+  }
+}

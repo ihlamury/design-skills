@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Beehiiv",
+  "source": "https://beehiiv.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 7,
+    "typography": 60,
+    "spacing": 0,
+    "borders": 1
+  }
+}

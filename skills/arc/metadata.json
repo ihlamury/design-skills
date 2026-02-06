@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Arc",
+  "source": "https://arc.net",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 9,
+    "typography": 28,
+    "spacing": 0,
+    "borders": 10
+  }
+}

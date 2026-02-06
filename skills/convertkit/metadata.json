@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Convertkit",
+  "source": "https://convertkit.com",
+  "extracted": "2026-02-04",
+  "categories": [
+    "ui-design",
+    "light-mode"
+  ],
+  "tokens": {
+    "colors": 8,
+    "typography": 35,
+    "spacing": 0,
+    "borders": 6
+  }
+}
